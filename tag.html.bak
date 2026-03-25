@@ -21,6 +21,11 @@
     <title class="cloak" id="tab-title">Tag </title>
     <link class="favicon" rel="icon" type="image/x-icon" href="/media/drive.ico" />
     <link href="style.css" rel="stylesheet" type="text/css" />
+	    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6878762486915837"
+      crossorigin="anonymous"
+    ></script>
   </head>
   <body>
     <nav class="nav" id="nav">
@@ -28,7 +33,7 @@
         <img src="media/bars-solid.svg" alt="Menu" class="shoot" />
       </div>
       <a href="/" class="logo2" style="background-color: transparent">
-        <img src="/media/logom.png" alt="basket-bros-76.github.io Logo" />
+        <img src="/media/logom.png" alt="quiz-50.github.io Logo" />
       </a>
       <a href="new.html" class="nav-link">New</a>
       <a href="trending.html" class="nav-link">Trending</a>
@@ -49,8 +54,8 @@
           <span class="help-label help-menu">RESERVE</span>
           <img src="media/caret.svg" class="caret help-menu" id="caret" />
           <ul id="cats" class="cats help-menu">
-            <a href="/macblog/projects/basket-bros-76.github.io/" target="_blank">About</a>
-            <a href="/macblog/updates/basket-bros-76.github.io/" target="_blank">Updates</a>
+            <a href="/macblog/projects/quiz-50.github.io/" target="_blank">About</a>
+            <a href="/macblog/updates/quiz-50.github.io/" target="_blank">Updates</a>
             <a href="/macblog/projects/" target="_blank">Docs</a>
             <a href="https://forms.gle/UpHgbAmLtUPCD5bs8" target="_blank"
               >Feedback</a
@@ -65,7 +70,7 @@
       <a href="/macideas/"><img src="/MacIdeas Logo.png" alt="" /></a>
       <a href="/maclearn/"><img src="/MacLearn Logo.png" alt="" /></a>
       <a href="/mactime/"><img src="/MacTime Logo.png" alt="" /></a>
-      <a href="/"><img src="/basket-bros-76.github.io Logo.png" alt="" /></a>
+      <a href="/"><img src="/quiz-50.github.io Logo.png" alt="" /></a>
       <a href="/macblog/"><img src="/MacBlog Logo.png" alt="" /></a>
     </div>
     <div class="wrap" style="padding-bottom: 40px">
@@ -89,9 +94,9 @@
       </div>
     </div>
     <footer class="footer">
-      © 2024 <a href="/">basket-bros-76.github.io</a
+      © 2024 <a href="/">quiz-50.github.io</a
       ><span style="color: black; user-select: none; background-color: black"
-        >basket-bros-76.github.io</span
+        >quiz-50.github.io</span
       >
       All rights reserved<br />
       Have fun playing these unblocked fun games!🎮🎮🎮<br

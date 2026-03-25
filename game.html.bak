@@ -15,7 +15,11 @@
 
       gtag("config", "G-EZM74395F2");
     </script>
-
+	    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6878762486915837"
+      crossorigin="anonymous"
+    ></script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title></title>
@@ -26,7 +30,7 @@
       <nav class="nav" id="nav">
 
       <a href="/" class="logo2" style="background-color: transparent">
-        <img src="/media/logom.png" alt="basket-bros-76.github.io Logo" />
+        <img src="/media/logom.png" alt="quiz-50.github.io Logo" />
       </a>
       <a href="new.html" class="nav-link">New</a>
       <a href="trending.html" class="nav-link">Trending</a>
