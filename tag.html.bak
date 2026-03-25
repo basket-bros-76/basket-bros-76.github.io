@@ -45,6 +45,18 @@
             <a href="/originals/macboard/" target="_blank">MacBoard</a>
           </ul>
         </div>
+        <div class="select help-menu">
+          <span class="help-label help-menu">RESERVE</span>
+          <img src="media/caret.svg" class="caret help-menu" id="caret" />
+          <ul id="cats" class="cats help-menu">
+            <a href="/macblog/projects/basket-bros-76.github.io/" target="_blank">About</a>
+            <a href="/macblog/updates/basket-bros-76.github.io/" target="_blank">Updates</a>
+            <a href="/macblog/projects/" target="_blank">Docs</a>
+            <a href="https://forms.gle/UpHgbAmLtUPCD5bs8" target="_blank"
+              >Feedback</a
+            >
+          </ul>
+        </div>
        
       </div>
     </nav>
